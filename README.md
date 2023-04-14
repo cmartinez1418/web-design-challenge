@@ -1,0 +1,3 @@
+# web-design-challenge
+
+In this project, we analyzed how weather changes at different latitudes. We looked at data regarding maximum temperature, windiness, cloudiness, and humidity at locations from around the globe. For each category, the data was plotted on a scatter plot to see if there were any trends between weather and latitude, especially in regards to proximity to the equator. On this site we have included the visualizations for each category, and a page that compares all four visualizations. The original data set is included as well. The website includes styling using CSS and the pages were created using HTML. There is a NavBar at the top to navigate the website.
